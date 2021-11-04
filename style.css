@@ -1,0 +1,10 @@
+#code {
+    display:none;
+}
+.bigcode {
+    font-size: 30px;
+    margin: 20px 20px 20px 0;
+}
+store {
+    display:block;
+}
